@@ -19,7 +19,7 @@ public class Menu {
     @Column(name = "menu_price")
     private String menuPrice;
 
-    @Column(name = "cateogory_code")
+    @Column(name = "category_code")
     private String categoryCode;
 
     @Column(name = "orderable_status")
